@@ -1,4 +1,4 @@
-<img src="https://plasma-umass.org/plasma-globe.png" width="250" height="250">
+<img src="https://github.com/plasma-umass/plasma-umass.github.io/blob/master/plasma-globe.png" width="250" height="250">
 
 # PLASMA (Programming Languages and Systems at Massachusetts)
 
@@ -15,36 +15,53 @@
 
 ## PLASMA projects
 
+- [**RightTyper**](https://github.com/righttyper/righttyper): Automatically annotates your Python code with high-quality types
+  [![PyPI Latest Release](https://img.shields.io/pypi/v/righttyper.svg)](https://pypi.org/project/righttyper/)
+  [![Downloads](https://pepy.tech/badge/righttyper)](https://pepy.tech/project/righttyper)
+  [![Downloads](https://pepy.tech/badge/righttyper/month)](https://pepy.tech/project/righttyper)
+  [![GitHub stars](https://img.shields.io/github/stars/righttyper/righttyper?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/scalene/)
+
 - [**Scalene**](https://github.com/plasma-umass/scalene): A state-of-the-art CPU+GPU+memory profiler for Python, with AI-powered optimization suggestions
   [![PyPI Latest Release](https://img.shields.io/pypi/v/scalene.svg)](https://pypi.org/project/scalene/)
   [![Anaconda-Server Badge](https://anaconda.org/conda-forge/scalene/badges/version.svg)](https://conda.anaconda.org/conda-forge/scalene)
   [![Downloads](https://pepy.tech/badge/scalene)](https://pepy.tech/project/scalene)
   [![Downloads](https://pepy.tech/badge/scalene/month)](https://pepy.tech/project/scalene)
   [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/scalene?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/scalene/)
+
 - [**Coz**](https://github.com/plasma-umass/coz): A _causal profiler_ that tells you where to optimize your code (C/C++/Rust/Swift/Java)
   [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/coz?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/coz/)
   [![Rust crate downloads](https://img.shields.io/crates/d/coz)](https://img.shields.io/crates/d/coz) <small>_(just counting Rust crate downloads)_</small>
+
 - [**CSrankings**](https://csrankings.org): Ranks the world's CS departments
   [![GitHub stars](https://img.shields.io/github/stars/emeryberger/CSrankings?style=social&label=Star&maxAge=2592000)](https://GitHub.com/emeryberger/CSrankings)
+
+- [**CoverUp**](https://github.com/plasma-umass/coverup): Automatically generates high-coverage tests
+  [![PyPI Latest Release](https://img.shields.io/pypi/v/coverup.svg)](https://pypi.org/project/coverup/)
+  [![Downloads](https://pepy.tech/badge/coverup)](https://pepy.tech/project/coverup)
+  [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/coverup?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/coverup/)
+
 - [**Slipcover**](https://github.com/plasma-umass/slipcover): Nearly zero-overhead code coverage analysis for Python
   [![PyPI Latest Release](https://img.shields.io/pypi/v/slipcover.svg)](https://pypi.org/project/slipcover/)
   [![Downloads](https://pepy.tech/badge/slipcover)](https://pepy.tech/project/slipcover)
   [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/slipcover?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/slipcover/)
+
 - [**ChatDBG**](https://github.com/plasma-umass/ChatDBG): AI-assisted debugging in `lldb`, `gdb`, and `pdb`. Uses AI to answer 'why'
   [![PyPI Latest Release](https://img.shields.io/pypi/v/ChatDBG.svg)](https://pypi.org/project/ChatDBG/)
   [![Downloads](https://pepy.tech/badge/ChatDBG)](https://pepy.tech/project/ChatDBG)
   [![Downloads](https://pepy.tech/badge/ChatDBG/month)](https://pepy.tech/project/ChatDBG)
   [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/ChatDBG?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/ChatDBG/)
-- [**Commentator**](https://github.com/plasma-umass/commentator): Automatically comments Python code, adding docstrings and type annotations
-  [![PyPI Latest Release](https://img.shields.io/pypi/v/python-commentator.svg)](https://pypi.org/project/python-commentator/)
-  [![Downloads](https://pepy.tech/badge/python-commentator)](https://pepy.tech/project/python-commentator)
-  [![Downloads](https://pepy.tech/badge/python-commentator/month)](https://pepy.tech/project/python-commentator)
-  [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/commentator?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/commentator/)
+
 - [**CWhy**](https://github.com/plasma-umass/CWhy): ("See why") Explains and suggests fixes for C/C++/Rust compiler error messages.
   [![PyPI Latest Release](https://img.shields.io/pypi/v/CWhy.svg)](https://pypi.org/project/CWhy/)
   [![Downloads](https://pepy.tech/badge/CWhy)](https://pepy.tech/project/CWhy)
   [![Downloads](https://pepy.tech/badge/CWhy/month)](https://pepy.tech/project/CWhy)
   [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/CWhy?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/CWhy/)
+
+- [**Commentator**](https://github.com/plasma-umass/commentator): Automatically comments Python code, adding docstrings and type annotations
+  [![PyPI Latest Release](https://img.shields.io/pypi/v/python-commentator.svg)](https://pypi.org/project/python-commentator/)
+  [![Downloads](https://pepy.tech/badge/python-commentator)](https://pepy.tech/project/python-commentator)
+  [![Downloads](https://pepy.tech/badge/python-commentator/month)](https://pepy.tech/project/python-commentator)
+  [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/commentator?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/commentator/)
 - [**SQLwrite**](https://github.com/plasma-umass/sqlwrite): SQLite3 with natural language to SQL, recommends indexes to optimize queries
   [![GitHub stars](https://img.shields.io/github/stars/plasma-umass/sqlwrite?style=social&label=Star&maxAge=2592000)](https://GitHub.com/plasma-umass/sqlwrite/)
 
@@ -90,8 +107,8 @@ See [this DBLP entry](https://dblp.org/pid/98/4487.html) for a complete list of 
 
 ### PLASMA publications
 
-* **[CoverUp: Coverage-Guided LLM-Based Test Generation.](https://doi.org/10.48550/arXiv.2403.16218)** - Juan Altmayer Pizzorno, Emery D. Berger, *arXiv 2024*
-* **[ChatDBG: An AI-Powered Debugging Assistant.](https://doi.org/10.48550/arXiv.2403.16354)** - Kyla Levin, Nicolas van Kempen, Emery D. Berger, Stephen N. Freund, *arXiv 2024*
+* **[CoverUp: Coverage-Guided LLM-Based Test Generation.](https://doi.org/10.48550/arXiv.2403.16218)** - Juan Altmayer Pizzorno, Emery D. Berger, *FSE 2025*
+* **[ChatDBG: An AI-Powered Debugging Assistant.](https://doi.org/10.48550/arXiv.2403.16354)** - Kyla Levin, Nicolas van Kempen, Emery D. Berger, Stephen N. Freund, *FSE 2025*
 * **[SlipCover: Near Zero-Overhead Code Coverage for Python.](https://doi.org/10.1145/3597926.3598128)** - Juan Altmayer Pizzorno, Emery D. Berger, *ISSTA 2023*
 * **[Triangulating Python Performance Issues with SCALENE.](https://www.usenix.org/conference/osdi23/presentation/berger)** - Emery D. Berger, Sam Stern, Juan Altmayer Pizzorno, *OSDI 2023*
 * **[PlanAlyzer: assessing threats to the validity of online experiments.](https://doi.org/10.1145/3474385)** - Emma Tosch, Eytan Bakshy, Emery D. Berger, David D. Jensen, J. Eliot B. Moss, *CACM Research Highlight 2021*
