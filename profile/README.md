@@ -10,7 +10,6 @@
 
 - [Kyla Levin](https://khlevin.github.io/KylaHLevin/)
 - [Juan Altmayer Pizzorno](https://jaltmayerpizzorno.github.io/)
-- [Sam Stern](https://samstern.me/)
 - [Nicolas van Kempen](https://nvankempen.com/)
 
 ## PLASMA projects
